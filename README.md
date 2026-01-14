@@ -4,7 +4,7 @@ A logic-only crafting and inventory management system written in UE-style, engin
 
 This project is intended as a portfolio piece showcasing clean gameplay logic that can be easily integrated into Unreal Engine or any custom engine.
 
-#Features
+# Features
 
 Inventory System
 
